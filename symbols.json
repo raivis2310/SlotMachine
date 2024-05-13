@@ -1,0 +1,11 @@
+{
+  "symbols":[
+    {"name":"@", "winValue":100, "chance":1},
+    {"name":"#", "winValue":40, "chance":2},
+    {"name":"$", "winValue":15, "chance": 3},
+    {"name":"&", "winValue":15, "chance": 8},
+    {"name":"*", "winValue":3, "chance": 8},
+    {"name":"A", "winValue":2, "chance": 22},
+    {"name":"K", "winValue":1, "chance": 56}
+  ]
+}
